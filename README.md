@@ -1,2 +1,2 @@
 # php-shell
-my own php-shell
+only exec
